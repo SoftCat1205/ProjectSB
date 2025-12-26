@@ -1,7 +1,7 @@
 # Unity 서식 규칙
 
 1. 변수(Variables) : camelCase
-  a. 불리언 (Boolean) : isX, hasY
+a. 불리언 (Boolean) : isX, hasY
 2. 메소드(Methods) : PascalCase
 3. 클래스(Classes) : PascalCase
 
