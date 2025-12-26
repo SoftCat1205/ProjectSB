@@ -1,3 +1,10 @@
+# Unity 서식 규칙
+
+1. 변수(Variables) : camelCase
+  a. 불리언 (Boolean) : isX, hasY
+2. 메소드(Methods) : PascalCase
+3. 클래스(Classes) : PascalCase
+
 # Git 커밋 메시지 규칙
 
 1. 제목과 본문을 빈 행으로 구분한다.
